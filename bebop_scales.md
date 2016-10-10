@@ -14,13 +14,16 @@
 
 ## Exploring all possible bebop scales
 
-- [ ] two approaches:
-    # starting from parent scales and modes, explore and evaluate all possible chromatic extensions.
-    # starting from all possible chromatic extensions, explore and evaluate what it gives us.
-- [ ] this article takes three steps:
-    # exhaustively list all theoretically possible chromatically extensions to all parent scales. Builds vocabulary for the rest of the article.
-    # start with first approach: given each scale/mode, explore valuable chromatic extensions.
-    # proceed with second approach: given each possible bebop scale, explore the chords and modes that can be articulated with it and see if we've missed anything.
+two approaches:
+
+1.  starting from parent scales and modes, explore and evaluate all possible chromatic extensions.
+2.  starting from all possible chromatic extensions, explore and evaluate what it gives us.
+
+this article takes three steps:
+
+1.  exhaustively list all theoretically possible chromatically extensions to all parent scales. Builds vocabulary for the rest of the article.
+2.  start with first approach: given each scale/mode, explore valuable chromatic extensions.
+3.  proceed with second approach: given each possible bebop scale, explore the chords and modes that can be articulated with it and see if we've missed anything.
 
 ## How many bebop scales can we build, anyway?
 
