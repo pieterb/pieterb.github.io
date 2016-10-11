@@ -62,10 +62,15 @@ Finally, let’s extend the harmonic minor scale:
 | ♭2 | X | O | X | O |   | X |   | O | X |   |   | O | S8  |
 |  3 | X |   | O | X | O | X |   | O | X |   |   | O | S9  |
 | ♭5 | X |   | O | X |   | O | X | O | X |   |   | O | S10 |
-| ♭6 | X |   | O | X |   | O |   | X | O | X |   | O | S7 (duplicate) |
+|  6 | X |   | O | X |   | O |   | X | O | X |   | O | S7 (duplicate) |
 | ♭7 | X |   | O | X |   | O |   | X | O |   | X | O | S4 (duplicate) |
 
+This gives us 3 new unique scales, which I’ll label S8, S9 and S10.
+
+So, by adding chromatic extension notes to the three common heptatonic scales, we can construct 10 different octatonic bebob scales.
+
 ## Adding chromatic extensions to existing Jazz modes
+
 
 ### Modes of the major scale
 
@@ -76,3 +81,5 @@ Finally, let’s extend the harmonic minor scale:
 ## Showdown of all bebop scales
 
 ## Conclusions
+
+1.  By adding chromatic extension notes to the three common heptatonic scales, we can construct 10 different octatonic bebob scales.
