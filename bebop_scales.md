@@ -33,21 +33,15 @@ This articles explores octatonic bebop scales formed by adding a chromatic exten
 
 Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of C, this scale has notes C-D-E-F-G-A-B-c, all the white keys on the piano. This scale has five gaps, corresponding to all the black keys of the piano: D♭, E♭, G♭, A♭, and B♭. Adding each of these notes to the major scale, we get 5 new scales:
 
-| 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| X | O | X |   | O | X |   | O |   | X |   | O |
-| X |   | O | X | O | X |   | O |   | X |   | O |
-| X |   | O |   | X | X |   | O |   | X |   | O |
-| X |   | O |   | X | X |   | O |   | X |   | O |
+| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| ♭2 | X | O | X |   | O | X |   | O |   | X |   | O | S1 |
+| ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2 |
+| ♭5 | X |   | O |   | X | O | X | O |   | X |   | O | S3 |
+| ♭6 | X |   | O |   | X | O |   | X | O | X |   | O | S4 |
+| ♭7 | X |   | O |   | X | O |   | X |   | O | X | O | S3 |
 
-| 1 | 2 | 2 | 3 | 3 | 4 | 5 | 5 | 6 | 6 | 7 | 7 |
-| - | -- | - | -- | - | - | -- | - | -- | - | -- | - |
-| X | O  | X | aa | O | X | bb | O | cc | X | xx | O |
-
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+The fifth scale, at the bottom, is the same intervals as the third scale when starting from the ♭6
 
 ## Adding chromatic extensions to existing Jazz modes
 
