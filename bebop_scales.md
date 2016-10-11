@@ -39,9 +39,31 @@ Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of 
 | ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2 |
 | ♭5 | X |   | O |   | X | O | X | O |   | X |   | O | S3 |
 | ♭6 | X |   | O |   | X | O |   | X | O | X |   | O | S4 |
-| ♭7 | X |   | O |   | X | O |   | X |   | O | X | O | S3 |
+| ♭7 | X |   | O |   | X | O |   | X |   | O | X | O | S3 (duplicate) |
 
-The fifth scale, at the bottom, is the same intervals as the third scale when starting from the ♭6
+The rightmost column — Scale name — defines a name for each of these scales, that we use throughout the rest of this article. The first four scales are unique: they each have a unique interval sequence. The fifth scale, however, can be considered a mode of the third scale. So our excercise of adding a single chromatic note to the major scale yields 4 unique new bebop scales, which I’ll call S1, S2, S3, and S4 in the remainder of this article.
+
+Let’s do the same for the melodic minor scale:
+
+| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| ♭2 | X | O | X | O |   | X |   | O |   | X |   | O | S5 |
+|  3 | X |   | O | X | O | X |   | O |   | X |   | O | S2 (duplicate) |
+| ♭5 | X |   | O | X |   | O | X | O |   | X |   | O | S6 |
+| ♭6 | X |   | O | X |   | O |   | X | O | X |   | O | S7 |
+| ♭7 | X |   | O | X |   | O |   | X |   | O | X | O | S1 (duplicate) |
+
+Again, we fill each of the five gaps, and this time we yield 3 more unique scales. Adding a major 3rd or flat 7th results in inversions of S2 and S1, respectively.
+
+Finally, let’s extend the harmonic minor scale:
+
+| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| ♭2 | X | O | X | O |   | X |   | O | X |   |   | O | S8  |
+|  3 | X |   | O | X | O | X |   | O | X |   |   | O | S9  |
+| ♭5 | X |   | O | X |   | O | X | O | X |   |   | O | S10 |
+| ♭6 | X |   | O | X |   | O |   | X | O | X |   | O | S7 (duplicate) |
+| ♭7 | X |   | O | X |   | O |   | X | O |   | X | O | S4 (duplicate) |
 
 ## Adding chromatic extensions to existing Jazz modes
 
