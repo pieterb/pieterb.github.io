@@ -33,7 +33,7 @@ This articles explores octatonic bebop scales formed by adding a chromatic exten
 
 Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of C, this scale has notes C-D-E-F-G-A-B-c, all the white keys on the piano. This scale has five gaps, corresponding to all the black keys of the piano: D♭, E♭, G♭, A♭, and B♭. Adding each of these notes to the major scale, we get 5 new scales:
 
-| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| Chromatic<br/>note | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | X | O | X |   | O | X |   | O |   | X |   | O | S1 |
 | ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2 |
@@ -67,9 +67,21 @@ Finally, let’s extend the harmonic minor scale:
 
 This gives us 3 new unique scales, which I’ll label S8, S9 and S10.
 
-So, by adding chromatic extension notes to the three common heptatonic scales, we can construct 10 different octatonic bebob scales.
+So, by adding chromatic extension notes to the three common heptatonic scales, we can construct 10 different octatonic bebob scales. That’s good to know, I guess. Now, we could investigate what each of the 8 modes of these 10 scales (80 in total!) can articulate, and I'll do so later on. But I’ll start with a different approach.
 
 ## Adding chromatic extensions to existing Jazz modes
+
+Let’s take a step back and look at the original 3 heptatonic parent scales (major, melodic minor, and harmonic minor), each 7 modes. These scale-modes (21 in total, but some are exotic and non-idiomatic to jazz) are commonly used within a specific harmonic context. For example, the major scale (more precisely its first mode, Ionian) is commonly used in a major tonic context. This could be a ⅠMa7 in a Ⅱm7–Ⅴ7–ⅠMa7 progression, but also a plain Ⅰ major triad, a Ⅰ<sup>6</sup><sub>9</sub> chord, or a ⅠMa9 chord.
+
+So, how would each of the 5 possible chromatic extensions of the major scale help articulate different harmonic contexts? Putting the extension note on the off-beat, each extension notes gives a different arpeggio on the down-beats:
+
+| Chromatic<br/>extension | Resulting arpeggio |
+| ---: | :--- |
+| ♭2 | 1–2–4–6 |
+| ♭3 | 3–5–Ma7–9 |
+| ♭5 | 5–Ma7–9–11 |
+| ♭6 | 1–3–5–6 |
+| ♭7 | Ma7–9–11–13 |
 
 
 ### Modes of the major scale
