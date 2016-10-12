@@ -33,8 +33,8 @@ This articles explores octatonic bebop scales formed by adding a chromatic exten
 
 Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of C, this scale has notes C-D-E-F-G-A-B-c, all the white keys on the piano. This scale has five gaps, corresponding to all the black keys of the piano: D♭, E♭, G♭, A♭, and B♭. Adding each of these notes as off-beat passing notes to the major scale, we get 5 new scales:
 
-| Chromatic<br/>note | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| Added<br/>note | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | O | X | O |   | X | O |   | X |   | O |   | X | S1a |
 | ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2a |
 | ♭5 | X |   | O |   | X | O | X | O |   | X |   | O | S3a: “Bebop Dominant”, “Bebop Dorian” |
@@ -51,8 +51,8 @@ So our excercise of adding a single chromatic off-beat passing note to the major
 
 Let’s do the same for the melodic minor scale:
 
-| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| Added<br/>note | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | O | X | O | X |   | O |   | X |   | O |   | X | S5a |
 |  3 | O |   | X | O | X | O |   | X |   | O |   | X | S2b |
 | ♭5 | X |   | O | X |   | O | X | O |   | X |   | O | S6a |
@@ -63,13 +63,13 @@ This time we yield 3 more unique interval sequences (S5a, S6a, S7a) and 2 rhythm
 
 Finally, let’s extend the harmonic minor scale:
 
-| Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
+| Added<br/>note | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
+| ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | O | X | O | X |   | O |   | X | O |   |   | X | S8a  |
 |  3 | O |   | X | O | X | O |   | X | O |   |   | X | S9a  |
 | ♭5 | X |   | O | X |   | O | X | O | X |   |   | O | S10a |
-|  6 | X |   | O | X |   | O |   | X | O | X |   | O | S7b |
-| ♭7 | X |   | O | X |   | O |   | X | O |   | X | O | S4b |
+|  6 | X |   | O | X |   | O |   | X | O | X |   | O | S7b  |
+| ♭7 | X |   | O | X |   | O |   | X | O |   | X | O | S4b  |
 
 Just as when extending the melodic minor scale, we yield 3 more unique interval sequences (S8a, S9a, S10a) and 2 rhythmic inversions of interval sequences we’ve seen before: S4b (rhythmic inversion of S4a) and S7b (rhythmic inversion of S7a).
 
@@ -83,7 +83,7 @@ In this section, I’ll investigate how adding off-beat chromatic extension note
 
 ### Major scale, 1st mode: Ionian
 
-| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| Added<br/>note | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
 | ♭2 | S1a | 1–9–11–13 | Suggests a Ⅱm7 (subdominant) chord, rather than Ionian. |
 | ♭3 | S2a | 3–5–Ma7–9 | A nice 3-to-9 arpeggio suggesting a Maj9 chord |
@@ -95,7 +95,7 @@ In my opinion, adding a ♭6 to create a 1–3–5–6 arpeggio is most natural 
 
 ### Major scale, 2nd mode: Dorian
 
-| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| Added<br/>note | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
 | ♭2 | S2a | 1–9–11–13 | Suggests Ⅱø7 rather than Dorian. |
 |  3 | S3a | 1-♭3–4–6 | Suggests Ⅳ7 rather than Dorian. |
@@ -107,15 +107,25 @@ The S5b and S1a scales clearly express two common harmonic contexts related to t
 
 ### Major scale, 3rd mode: Phrygian
 
-| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| Added<br/>note | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
-| ♭2 | S2a | 1–9–11–13 | Suggests Ⅱø7 rather than Dorian. |
-|  3 | S3a | 1-♭3–4–6  | Suggests Ⅳ7 rather than Dorian. |
-| ♭5 | S4a | 2–4–5–♭7  | Suggests Ⅴm7 rather than Dorian.  |
-| ♭6 | S5b | 1–♭3–5–6  | m6 arpeggio |
-|  7 | S1a | 1–♭3–5–7  | m7 arpeggio |
+|  2 | S2a | ♭3–5–♭7–♭9 | Communicates a m7♭9 chord. |
+|  3 | S3a | 1-♭3–4–♭6  | Suggests Ⅳm7 rather than Phrygian. |
+| ♭5 | S4a | 5–♭7–♭9–11 | Suggests Ⅴø7 rather than Phrygian. |
+|  6 | S5b | 4–♭6–♭7–♭9 | Suggests Ⅴø7 rather than Phrygian. |
+|  7 | S1a | 1–♭3–5–♭7  | Clearly expresses a m7 chord. |
+
+The S1a and S2a scales both imply a m7 quality. S2a nicely stresses a typically Phrygian ♭9. The three other extensions are mostly useless in a Phrygian context.
 
 ### Major scale, 4th mode: Lydian
+
+| Added<br/>note | Scale | Resulting arpeggio | Comment |
+| ---: | :---: | :--- | :--- |
+| ♭2 | S3a | 1–9–11–13 |  |
+| ♭3 | S4a | 3–5–7–9   |  |
+|  4 | S3b | 1–3–♭5–6  |  |
+| ♭6 | S1a | 1–♭3–5–6  |  |
+| ♭7 | S2a | 1–♭3–5–7  |  |
 
 ### Major scale, 5th mode: Mixolydian
 
