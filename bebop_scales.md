@@ -37,11 +37,11 @@ Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | O | X | O |   | X | O |   | X |   | O |   | X | S1a |
 | ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2a |
-| ♭5 | O |   | X |   | O | X | O | X |   | O |   | X | S3a |
-| ♭6 | X |   | O |   | X | O |   | X | O | X |   | O | S4a |
+| ♭5 | O |   | X |   | O | X | O | X |   | O |   | X | S3a: “Bebop Dominant”, “Bebop Dorian” |
+| ♭6 | X |   | O |   | X | O |   | X | O | X |   | O | S4a: “Bebop Major” |
 | ♭7 | O |   | X |   | O | X |   | O |   | X | O | X | S3b |
 
-Bebob scales are about rhythm, and putting certain notes on the beat, and others off-beat. In this table, the “O”s are on-beat notes, and the “X”s are off-beat notes.
+Bebob scales are about rhythm, by putting certain notes on-beat, and others off-beat. In this table, the “O”s are on-beat notes, and the “X”s are off-beat notes.
 
 The rightmost column — Scale name — labels each of these scales, and I’ll use these labels throughout the remainder of this article.
 
@@ -79,34 +79,66 @@ So, by adding chromatic extension notes to the three common heptatonic scales, w
 
 Let’s take a step back and look at the original 3 heptatonic parent scales (major, melodic minor, and harmonic minor), each 7 modes. These scale-modes (21 in total, but some are exotic and non-idiomatic to jazz) are commonly used within a specific harmonic context. For example, the major scale (more precisely its first mode, Ionian) is commonly used in a major tonic context. This could be a ⅠMa7 in a Ⅱm7–Ⅴ7–ⅠMa7 progression, but also a plain Ⅰ major triad, a Ⅰ<sup>6</sup><sub>9</sub> chord, or a ⅠMa9 chord.
 
-In this section, I’ll investigate how adding chromatic extension notes to our heptatonic scales and modes articulate different harmonic contexts.
+In this section, I’ll investigate how adding off-beat chromatic extension notes to our heptatonic scales and modes articulate different harmonic contexts.
 
-### Modes of the major scale
+### Major scale, 1st mode: Ionian
 
-The seven modes of the major scale are:
+| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| ---: | :---: | :--- | :--- |
+| ♭2 | S1a | 1–9–11–13 | Suggests a Ⅱm7 (subdominant) chord, rather than Ionian. |
+| ♭3 | S2a | 3–5–Ma7–9 | A nice 3-to-9 arpeggio suggesting a Maj9 chord |
+| ♭5 | S3a | 4-5–Ma7–9 | The natural 4 suggests a Maj7sus4 chord. |
+| ♭6 | S4a | 1–3–5–6 | The natural 6 adds little color; suggests plain major triad. |
+| ♭7 | S3b | Ma7–9–11–13 | Suggests a Ⅶø7, rather than Ionian. |
 
-1.  Ionian
-2.  Dorian
-3.  Phrygian
-4.  Lydian
-5.  Mixolydian
-6.  Aeolian
-7.  Locrian
+In my opinion, adding a ♭6 to create a 1–3–5–6 arpeggio is most natural chromatic extension to the Ionian scale, and it’s no big surprise that this scale is called *the* Bobop Major scale. A good second best is the added ♭3 giving a 3-to-9 arpeggio, which articulates the Maj7 quality more clearly, at the cost of putting the root note off-beat.
 
-When adding off-beat chromatic extension notes to the Ionian mode, we create the following on-beat arpeggio's:
+### Major scale, 2nd mode: Dorian
 
-| Chromatic<br/>extension | Resulting arpeggio | Comment |
-| ---: | :--- | :--- |
-| ♭2 | 1–9–11–13 | The natural 11 in a major context is rare; suggests Ⅱm7 subdominant chord. |
-| ♭3 | 3–5–Ma7–9 | A nice 3-to-9 arpeggio suggesting a Ma9 chord |
-| ♭5 | 4-5–Ma7–9 | The natural 4 suggests a Ma7sus4 chord. |
-| ♭6 | 1–3–5–6 | The natural 6 adds little color; suggests plain major triad. |
-| ♭7 | Ma7–9–11–13 | Very colorful; suggests Ⅶø7 |
+| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| ---: | :---: | :--- | :--- |
+| ♭2 | S2a | 1–9–11–13 | Suggests Ⅱø7 rather than Dorian. |
+|  3 | S3a | 1-♭3–4–6 | Suggests Ⅳ7 rather than Dorian. |
+| ♭5 | S4a | 2–4–5–♭7 | Suggests Ⅴm7 rather than Dorian.  |
+| ♭6 | S5b | 1–♭3–5–6 | m6 arpeggio |
+|  7 | S1a | 1–♭3–5–7 | m7 arpeggio |
+
+The S5b and S1a scales clearly express two common harmonic contexts related to the Dorian mode, namely m6 and m7 chords, respectively. The other three scales are much less “Dorian”. Surprisingly, scale S3a (which adds a natural 3 to the Dorian scale) is called *the* Bebop Dorian scale on many websites.
+
+### Major scale, 3rd mode: Phrygian
+
+| Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
+| ---: | :---: | :--- | :--- |
+| ♭2 | S2a | 1–9–11–13 | Suggests Ⅱø7 rather than Dorian. |
+|  3 | S3a | 1-♭3–4–6 | Suggests Ⅳ7 rather than Dorian. |
+| ♭5 | S4a | 2–4–5–♭7 | Suggests Ⅴm7 rather than Dorian.  |
+| ♭6 | S5b | 1–♭3–5–6 | m6 arpeggio |
+|  7 | S1a | 1–♭3–5–7 | m7 arpeggio |
 
 
+### Major scale, 4th mode: Lydian
+
+### Major scale, 5th mode: Mixolydian
+
+### Major scale, 6th mode: Aeolian
+
+### Major scale, 7th mode: Locrian
+
+### Melodic minor scale, 1st mode
+
+### Melodic minor scale, 2nd mode
+
+### Melodic minor scale, 3rd mode: “Lydian augmented”
+
+### Melodic minor scale, 4th mode: “Lydian dominant”
+
+### Melodic minor scale, 5th mode: “Melodic major”
+
+### Melodic minor scale, 6th mode: “Half diminished”
+
+### Melodic minor scale, 7th mode: “Altered” or “Super Locrian”
 
 
-### Modes of the melodic minor scale
 
 ### Modes of the harmonic minor scale
 
@@ -115,3 +147,4 @@ When adding off-beat chromatic extension notes to the Ionian mode, we create the
 ## Conclusions
 
 1.  By adding chromatic extension notes to the three common heptatonic scales, we can construct 10 different octatonic bebob scales.
+2.  The name “Bebop Dorian” is rather unfortunate. First, it’s just a mode of the “Bebop Dominant” scale, not really a unique scale in its own right. Secondly, there are at least 2 other bebop scales that more plainly and directly express the Dorian mode.
