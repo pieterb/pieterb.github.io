@@ -37,9 +37,9 @@ Let’s start with the major scale, with intervals 2-2-1-2-2-2-1. In the key of 
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | ♭2 | O | X | O |   | X | O |   | X |   | O |   | X | S1a |
 | ♭3 | X |   | O | X | O | X |   | O |   | X |   | O | S2a |
-| ♭5 | O |   | X |   | O | X | O | X |   | O |   | X | S3a: “Bebop Dominant”, “Bebop Dorian” |
-| ♭6 | X |   | O |   | X | O |   | X | O | X |   | O | S4a: “Bebop Major” |
-| ♭7 | O |   | X |   | O | X |   | O |   | X | O | X | S3b |
+| ♭5 | X |   | O |   | X | O | X | O |   | X |   | O | S3a: “Bebop Dominant”, “Bebop Dorian” |
+| ♭6 | O |   | X |   | O | X |   | O | X | O |   | X | S4a: “Bebop Major” |
+| ♭7 | X |   | O |   | X | O |   | X |   | O | X | O | S3b |
 
 Bebob scales are about rhythm, by putting certain notes on-beat, and others off-beat. In this table, the “O”s are on-beat notes, and the “X”s are off-beat notes.
 
@@ -56,7 +56,7 @@ Let’s do the same for the melodic minor scale:
 | ♭2 | O | X | O | X |   | O |   | X |   | O |   | X | S5a |
 |  3 | O |   | X | O | X | O |   | X |   | O |   | X | S2b |
 | ♭5 | X |   | O | X |   | O | X | O |   | X |   | O | S6a |
-| ♭6 | X |   | O | X |   | O |   | X | O | X |   | O | S7a |
+| ♭6 | O |   | X | O |   | X |   | O | X | O |   | X | S7a |
 | ♭7 | X |   | O | X |   | O |   | X |   | O | X | O | S1b |
 
 This time we yield 3 more unique interval sequences (S5a, S6a, S7a) and 2 rhythmic inversions of interval sequences we’ve seen before: S1b (rhythmic inversion of S1a) and S2b (rhythmic inversion of S2a).
@@ -65,8 +65,8 @@ Finally, let’s extend the harmonic minor scale:
 
 | Chromatic<br/>extension | 1 | ♭2 | 2 | ♭3 | 3 | 4 | ♭5 | 5 | ♭6 | 6 | ♭7 | 7 | Scale<br/>name |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| ♭2 | X | O | X | O |   | X |   | O | X |   |   | O | S8a  |
-|  3 | X |   | O | X | O | X |   | O | X |   |   | O | S9a  |
+| ♭2 | O | X | O | X |   | O |   | X | O |   |   | X | S8a  |
+|  3 | O |   | X | O | X | O |   | X | O |   |   | X | S9a  |
 | ♭5 | X |   | O | X |   | O | X | O | X |   |   | O | S10a |
 |  6 | X |   | O | X |   | O |   | X | O | X |   | O | S7b |
 | ♭7 | X |   | O | X |   | O |   | X | O |   | X | O | S4b |
@@ -110,11 +110,10 @@ The S5b and S1a scales clearly express two common harmonic contexts related to t
 | Chromatic<br/>extension | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
 | ♭2 | S2a | 1–9–11–13 | Suggests Ⅱø7 rather than Dorian. |
-|  3 | S3a | 1-♭3–4–6 | Suggests Ⅳ7 rather than Dorian. |
-| ♭5 | S4a | 2–4–5–♭7 | Suggests Ⅴm7 rather than Dorian.  |
-| ♭6 | S5b | 1–♭3–5–6 | m6 arpeggio |
-|  7 | S1a | 1–♭3–5–7 | m7 arpeggio |
-
+|  3 | S3a | 1-♭3–4–6  | Suggests Ⅳ7 rather than Dorian. |
+| ♭5 | S4a | 2–4–5–♭7  | Suggests Ⅴm7 rather than Dorian.  |
+| ♭6 | S5b | 1–♭3–5–6  | m6 arpeggio |
+|  7 | S1a | 1–♭3–5–7  | m7 arpeggio |
 
 ### Major scale, 4th mode: Lydian
 
