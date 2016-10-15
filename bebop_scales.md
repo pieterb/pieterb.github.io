@@ -4,9 +4,9 @@
 
 ## What is a bebop scale?
 
-- [ ] the purpose of bebop scales: rhythm
-- [ ] applicable parent scales
-- [ ] formal definition
+-   the purpose of bebop scales: rhythm
+-   applicable parent scales
+-   formal definition
 
 ## Common bebop scales
 
@@ -16,12 +16,12 @@
 
 ## Exploring all possible bebop scales
 
-two approaches:
+-   two approaches:
 
 1.  starting from parent scales and modes, explore and evaluate all possible chromatic extensions.
 2.  starting from all possible chromatic extensions, explore and evaluate what it gives us.
 
-this article takes three steps:
+-   this article takes three steps:
 
 1.  exhaustively list all theoretically possible chromatically extensions to all parent scales. Builds vocabulary for the rest of the article.
 2.  start with first approach: given each scale/mode, explore valuable chromatic extensions.
