@@ -86,12 +86,12 @@ In this section, I’ll investigate how adding off-beat chromatic extension note
 | Added<br/>note | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
 | ♭2 | S1a | 1–9–11–13 | Suggests a Ⅱm7 (subdominant) chord, rather than Ionian. |
-| ♭3 | S2a | 3–5–Ma7–9 | A nice 3-to-9 arpeggio suggesting a Maj9 chord |
-| ♭5 | S3a | 4-5–Ma7–9 | The natural 4 suggests a Maj7sus4 chord. |
+| ♭3 | S2a | 3–5–Ma7–9 | A nice 3-to-9 arpeggio suggesting a Ma9 chord |
+| ♭5 | S3a | 4-5–Ma7–9 | The natural 4 suggests a Ma7sus4 chord. |
 | ♭6 | S4a | 1–3–5–6 | The natural 6 adds little color; suggests plain major triad. |
 | ♭7 | S3b | Ma7–9–11–13 | Suggests a Ⅶø7, rather than Ionian. |
 
-In my opinion, adding a ♭6 to create a 1–3–5–6 arpeggio is most natural chromatic extension to the Ionian scale, and it’s no big surprise that this scale is called *the* Bobop Major scale. A good second best is the added ♭3 giving a 3-to-9 arpeggio, which articulates the Maj7 quality more clearly, at the cost of putting the root note off-beat.
+In my opinion, adding a ♭6 to create a 1–3–5–6 arpeggio is most natural chromatic extension to the Ionian scale, and it’s no big surprise that this scale is called *the* Bobop Major scale. A good second best is the added ♭3 giving a 3-to-9 arpeggio, which articulates the Ma7 quality more clearly, at the cost of putting the root note off-beat.
 
 ### Major scale, 2nd mode: Dorian
 
@@ -113,7 +113,7 @@ The S5b and S1a scales clearly express two common harmonic contexts related to t
 |  3 | S3a | 1-♭3–4–♭6  | Suggests Ⅳm7 rather than Phrygian. |
 | ♭5 | S4a | 5–♭7–♭9–11 | Suggests Ⅴø7 rather than Phrygian. |
 |  6 | S5b | 4–♭6–♭7–♭9 | Suggests Ⅴø7 rather than Phrygian. |
-|  7 | S1a | 1–♭3–5–♭7  | Clearly expresses a m7 chord. |
+|  7 | S1a | 1–♭3–5–♭7  | A clean m7 chord. |
 
 The S1a and S2a scales both imply a m7 quality. S2a nicely stresses a typically Phrygian ♭9. The three other extensions are mostly useless in a Phrygian context.
 
@@ -121,13 +121,21 @@ The S1a and S2a scales both imply a m7 quality. S2a nicely stresses a typically 
 
 | Added<br/>note | Scale | Resulting arpeggio | Comment |
 | ---: | :---: | :--- | :--- |
-| ♭2 | S3a | 1–9–11–13 |  |
-| ♭3 | S4a | 3–5–7–9   |  |
-|  4 | S3b | 1–3–♭5–6  |  |
-| ♭6 | S1a | 1–♭3–5–6  |  |
-| ♭7 | S2a | 1–♭3–5–7  |  |
+| ♭2 | S3a | 1–9–♯11–13 | very colorful Ma13? |
+| ♭3 | S4a | 3–5–7–9    | 3-to-9 arpeggio Ma9 |
+|  4 | S3b | 1–3–♭5–6   | Suggests ♭Ⅴø7.  |
+| ♭6 | S1a | 1–3–5–6    | a clean 6 chord |
+| ♭7 | S2a | 7–9–♯11–13 | Suggests Ⅶm7.  |
 
 ### Major scale, 5th mode: Mixolydian
+
+| Added<br/>note | Scale | Resulting arpeggio | Comment |
+| ---: | :---: | :--- | :--- |
+| ♭2 | S3a | 1–9–11–13 | very colorful 13? |
+| ♭3 | S4a | 3–5–♭7–9  | 3-to-9 arpeggio |
+| ♭5 | S3b | 4–5–♭7–9  | Maybe 9sus4?  |
+| ♭6 | S1a | 1–3–5–6   | a clean 6 chord |
+|  7 | S2a | 1–3–5–♭7  | Suggests Ⅶm7.  |
 
 ### Major scale, 6th mode: Aeolian
 
